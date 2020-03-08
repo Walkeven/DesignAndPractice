@@ -1,2 +1,2 @@
 # DesignAndPractice
-Recap some design and practice
+详见WIKI
