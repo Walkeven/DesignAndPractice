@@ -1,2 +1,2 @@
 # DesignAndPractice
-详见WIKI
+详见[WIKI]("https://github.com/Walkeven/DesignAndPractice/wiki")
